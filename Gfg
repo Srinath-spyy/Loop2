@@ -1,0 +1,10 @@
+using System;
+public class Gfg {
+public static void Main(String[] args)
+{
+int i, n = 50;
+for (i = 1; i <= n; i++) {
+Console.Write("Hello World !!!\n");
+}
+}
+}
